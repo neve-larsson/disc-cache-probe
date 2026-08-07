@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+  <rect id="__preheatEventBuffer" width="50" height="50" fill="red"/>
+  <circle id="testSvgClobber" cx="75" cy="75" r="25" fill="blue"/>
+  <text id="constructor">test</text>
+</svg>
