@@ -1,7 +1,0 @@
-h1. CSS Injection Probe
-
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="background:url(https://example.com/probe)" alt="css-test">
-
-<div style="color:red;font-size:48px">STYLE ATTRIBUTE TEST</div>
-
-<span style="position:absolute;top:0;left:0;width:100%;height:100%;opacity:0.01">overlay test</span>
