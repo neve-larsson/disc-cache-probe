@@ -1,13 +1,7 @@
-h1. Textile Rendering Test
+h1. CSS Injection Probe
 
-This is a *bold* and _italic_ test in Textile format.
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="background:url(https://example.com/probe)" alt="css-test">
 
-p(#test-para). A paragraph with an id.
+<div style="color:red;font-size:48px">STYLE ATTRIBUTE TEST</div>
 
-A simple table:
-
-|_. Header 1 |_. Header 2 |
-| Cell 1     | Cell 2     |
-| Cell 3     | Cell 4     |
-
-"A link":https://example.com to test anchor rendering.
+<span style="position:absolute;top:0;left:0;width:100%;height:100%;opacity:0.01">overlay test</span>
