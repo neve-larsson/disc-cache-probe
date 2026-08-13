@@ -1,0 +1,13 @@
+h1. Textile Rendering Test
+
+This is a *bold* and _italic_ test in Textile format.
+
+p(#test-para). A paragraph with an id.
+
+A simple table:
+
+|_. Header 1 |_. Header 2 |
+| Cell 1     | Cell 2     |
+| Cell 3     | Cell 4     |
+
+"A link":https://example.com to test anchor rendering.
