@@ -1,7 +1,0 @@
-name: Test Action
-description: sha-pin baseline
-runs:
-  using: composite
-  steps:
-    - run: echo sha-pin-test-passed
-      shell: bash
